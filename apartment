@@ -1,0 +1,21 @@
+var multiConfig = {"THISROOM":"blkhrtco@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["outside","living","kitchen","dining","bedroom","cellar","backyard","pool"],"defaultView":"outside"}
+
+var roomstuff = {"rooms":{
+
+"outside":{"rName":"Outside","backgroundImage":"https://soi-blkhrtco.hyperchat.com/blackwoodfloor.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/maintop.jpg><br>Welcome to Our Cottage<br></center>","roombottom":""},
+
+"living":{"rName":"Living Room","backgroundImage":"https://soi-blkhrtco.hyperchat.com/livingroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/livingroomtop.jpg><br>Our Living Room<br></center>","roombottom":""},
+
+"kitchen":{"rName":"Kitchen","backgroundImage":"https://soi-blkhrtco.hyperchat.com/kitchenbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/kitchentop.jpg><br>Our Kitchen<br></center>","roombottom":""},
+
+"dining":{"rName":"Dining Room","backgroundImage":"https://soi-blkhrtco.hyperchat.com/diningroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/diningroomtop.jpg><br>Our Dining Room<br></center>","roombottom":""},
+
+"bedroom":{"rName":"Bedroom","backgroundImage":"https://soi-blkhrtco.hyperchat.com/bedroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/bedroomtop.jpg><br>Our Bedroom<br></center>","roombottom":""},
+
+"cellar":{"rName":"WineCellar","backgroundImage":"https://soi-blkhrtco.hyperchat.com/winecellarbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/winecellartop.jpg><br>Our Wine Cellar<br></center>","roombottom":""},
+
+"backyard":{"rName":"Backyard","backgroundImage":"https://soi-blkhrtco.hyperchat.com/backyardback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/backyardtop.jpg><br>Our Backyard<br></center>","roombottom":""},
+
+"pool":{"rName":"Pool","backgroundImage":"https://soi-blkhrtco.hyperchat.com/poolbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/pooltop.jpg><br>Our Pool<br></center>","roombottom":""},
+
+}}

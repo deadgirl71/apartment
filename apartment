@@ -22,8 +22,8 @@ var roomstuff = {"rooms":{
 
 "church":{"rName":"Sanctuary","backgroundImage":"https://soi-blkhrtco.hyperchat.com/chruchbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/toproom.jpg><br>Our Sanctuary<br></center>","roombottom":""},
 
-"castle":{"rName":"Private Dungeon","backgroundImage":"https://soi-blkhrtco.hyperchat.com/privatedungeonback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/pdungeontop.jpg><br>Our Private Dungeon<br></center>","roombottom":""},
+"castle":{"rName":"BlackHeart Castle","backgroundImage":"https://soi-blkhrtco.hyperchat.com/castleback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/Masterscastletopper.jpg><br>Blackheart Castle<br></center>","roombottom":""},
 
-"dungeon":{"rName":"Castle","backgroundImage":"https://soi-blkhrtco.hyperchat.com/castleback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/Masterscastletopper.jpg><br>Blackheart Castle<br></center>","roombottom":""},
+"dungeon":{"rName":"Private Dungeon","backgroundImage":"https://soi-blkhrtco.hyperchat.com/privatedungeonback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/pdungeontop.jpg><br>Our Private Dungeon<br></center>","roombottom":""},
 
 }}

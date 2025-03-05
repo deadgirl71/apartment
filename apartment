@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"blkhrtco@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["outside","living","kitchen","dining","bedroom","cellar","backyard","pool"],"defaultView":"outside"}
+var multiConfig = {"THISROOM":"blkhrtco@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["outside","living","kitchen","dining","bedroom","cellar","backyard","pool","grave","church","castle"],"defaultView":"outside"}
 
 var roomstuff = {"rooms":{
 
@@ -17,5 +17,11 @@ var roomstuff = {"rooms":{
 "backyard":{"rName":"Backyard","backgroundImage":"https://soi-blkhrtco.hyperchat.com/backyardback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/backyardtop.jpg><br>Our Backyard<br></center>","roombottom":""},
 
 "pool":{"rName":"Pool","backgroundImage":"https://soi-blkhrtco.hyperchat.com/poolbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/pooltop.jpg><br>Our Pool<br></center>","roombottom":""},
+
+"grave":{"rName":"Graveyard","backgroundImage":"https://soi-blkhrtco.hyperchat.com/graveyardbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/graveyardtop.jpg><br>Our Graveyard<br></center>","roombottom":""},
+
+"church":{"rName":"Sanctuary","backgroundImage":"https://soi-blkhrtco.hyperchat.com/chruchbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/toproom.jpg><br>Our Sanctuary<br></center>","roombottom":""},
+
+"castle":{"rName":"Castle","backgroundImage":"https://soi-blkhrtco.hyperchat.com/castleback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/Masterscastletopper.jpg><br>Blackheart Castle<br></center>","roombottom":""},
 
 }}

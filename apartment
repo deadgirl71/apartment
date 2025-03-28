@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"blkhrtco@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["outside","living","kitchen","dining","bedroom","cellar","backyard","pool","grave","church","castle","dungeon"],"defaultView":"outside"}
+var multiConfig = {"THISROOM":"blkhrtco@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["outside","living","kitchen","dining","bedroom","cellar","backyard","garden","pool","grave","church","castle","dungeon"],"defaultView":"outside"}
 
 var roomstuff = {"rooms":{
 
@@ -15,6 +15,8 @@ var roomstuff = {"rooms":{
 "cellar":{"rName":"WineCellar","backgroundImage":"https://soi-blkhrtco.hyperchat.com/winecellarbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/winecellartop.jpg><br>Our Wine Cellar<br></center>","roombottom":""},
 
 "backyard":{"rName":"Backyard","backgroundImage":"https://soi-blkhrtco.hyperchat.com/backyardback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/backyardtop.jpg><br>Our Backyard<br></center>","roombottom":""},
+
+"garden":{"rName":"Garden","backgroundImage":"https://soi-blkhrtco.hyperchat.com/gardenback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/forgardenforhome.jpg><br>Our Garden<br></center>","roombottom":""},
 
 "pool":{"rName":"Pool","backgroundImage":"https://soi-blkhrtco.hyperchat.com/poolbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/pooltop.jpg><br>Our Pool<br></center>","roombottom":""},
 

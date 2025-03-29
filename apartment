@@ -12,7 +12,7 @@ var roomstuff = {"rooms":{
 
 "bedroom":{"rName":"Bedroom","backgroundImage":"https://soi-blkhrtco.hyperchat.com/bedroomback.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/bedroomtop.jpg><br>Our Bedroom<br></center>","roombottom":""},
 
-"bathroom":{"rName":"Bathroom","backgroundImage":"https://soi-blkhrtco.hyperchat.com/bathroombackuse.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/bathroombackground.jpg><br>Our Bathroom<br></center>","roombottom":""},
+"bathroom":{"rName":"Bathroom","backgroundImage":"https://soi-blkhrtco.hyperchat.com/bathroombackuse.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/bathroomtopcandle.jpg><br>Our Bathroom<br></center>","roombottom":""},
 
 "cellar":{"rName":"WineCellar","backgroundImage":"https://soi-blkhrtco.hyperchat.com/winecellarbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/winecellartop.jpg><br>Our Wine Cellar<br></center>","roombottom":""},
 
